@@ -32,9 +32,10 @@ a {
 
 .Eu {
     position: absolute;
+    text-align: left;
     color: rgb(218, 218, 144);
     top: 30%;
-    padding-left: 100px;
+    left: 15%;
 }
 
 .Eu h1 {
@@ -53,7 +54,7 @@ body {
 
 .logo2 img {
     position: absolute;
-    padding-left: 100px;
+    padding-left: 80px;
     top: 0;
 }
 
@@ -62,7 +63,7 @@ body {
 
 .logo1 img {
     position: absolute;
-    left: 440px;
+    left: 43%;
     bottom: 0px;
 }
 
@@ -78,7 +79,7 @@ body {
     text-align: center;
     top: 50%;
     right: 45%;
-    left: 50px;
+    left: 200px;
     line-height: 32px;
     padding-bottom: 120px;
 }
@@ -89,6 +90,7 @@ body {
 }
 
 .habilidades {
+    text-decoration: none;
     padding-top: 60px;
     padding-bottom: 120px;
     position: relative;
