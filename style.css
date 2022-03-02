@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(218, 218, 144);
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+.menuitem {
+    background-color: rgb(92, 79, 123);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.menuitem:hover {
+    background-color: rgb(104, 88, 140);
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.Eu {
+    position: absolute;
+    color: rgb(218, 218, 144);
+    top: 30%;
+    padding-left: 100px;
+}
+
+.Eu h1 {
+    font-size: 400%;
+    font-weight: 100;
+}
+
+body {
+    font-weight: 100;
+    background-color: #262a34;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(227, 234, 245);
+    font-size: 20px;
+    font-weight: 300px;
+}
+
+.logo2 img {
+    position: absolute;
+    padding-left: 100px;
+    top: 0;
+}
+
+
+/* resolver posicionamento logo1 */
+
+.logo1 img {
+    position: absolute;
+    left: 440px;
+    bottom: 0px;
+}
+
+.foto img {
+    position: absolute;
+    border-radius: 40px;
+    left: 60%;
+    top: 30%;
+}
+
+.quemSouEu {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    right: 45%;
+    left: 50px;
+    line-height: 32px;
+    padding-bottom: 120px;
+}
+
+.quemSouEu h2 {
+    font-weight: 100;
+    color: rgb(92, 79, 123);
+}
+
+.habilidades {
+    padding-top: 60px;
+    padding-bottom: 120px;
+    position: relative;
+    text-align: center;
+}
+
+
+/* resolver fixação do rodapé */
+
+
+/* footer {
+    position: fixed;
+    margin-top: 80%;
+    bottom: 100%;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 50px;
+    background-color: rgb(218, 218, 144);
+    padding-top: 20px;
+    padding-bottom: 25px;
+} */
